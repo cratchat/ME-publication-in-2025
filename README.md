@@ -35,5 +35,5 @@ Author	Title	Journal	Ranking
 | SPT | Glycerolysis of Palm Oil for Monoglyceride Production | ACS Sustainable Chemistry and Engineering | Q2 |
 | NNW | Teleoperated Driving and Autonomous Driving Integration | Automation | Q2 |
 | RCR | Industry 5.0: Collaborative Welding Robotics | IEEE Access | T1 |
-| GPN | Body-Powered Underactuated Prosthetic Finger | Robotics | T2 |
+| GPN | Body-Powered Underactuated Prosthetic Finger | Robotics | T1 |
 | GPN | Mathematical Modeling of ICE and EV Stability | JRAME | Q4 |
