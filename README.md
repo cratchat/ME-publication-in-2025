@@ -1,4 +1,5 @@
 # ME-publication-in-2025
+📚 Research Publication Portfolio
 This repository contains a curated list of peer-reviewed journal publications across multidisciplinary fields including biomedical engineering, robotics, sustainable materials, smart vehicles, image processing, and energy systems.
 
 Each entry in the dataset is labeled by the main author, the publication title, the journal name, and its ranking (Q1–Q4, T1–T2) to reflect its impact.
