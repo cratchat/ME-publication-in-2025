@@ -5,7 +5,7 @@ This repository contains a curated list of peer-reviewed journal publications ac
 Each entry in the dataset is labeled by the main author, the publication title, the journal name, and its ranking (Q1–Q4, T1) to reflect its impact.
 
 🔍 Highlights
-✅ 29 peer-reviewed publications
+✅ 30 peer-reviewed publications
 
 🧠 Fields: Materials Science, Mechanical Engineering, Biomedical Applications, Robotics, Environmental Sustainability, and Artificial Intelligence
 
@@ -44,3 +44,4 @@ Author	Title	Journal	Ranking
 | GPN | Development, validation, and application of a dual-color fluorescent assay for high-throughput screening of anti-chikungunya drugs | Scientific Reports | T1 |
 | J | Mechanicam Impedance Tunnel of Affordable Desktop Robotic Arm for Uppper Extremity Rehabilitation | Systems Science and Control Engineering | Q1 |
 | GPN | AI-Powered Telepresence Laboratory: Generative AI Co-Pilot for Automated Experiment Guidance and Instruction | International Journal of Engineering Education | Q3 |
+| NNW | Evaluating Visual eHMI Formats for Pedestrian Crossing Confirmation in Electric Autonomous Vehicles: A Comprehension-Time Study with Simulation and Preliminary Field Validation | World Electric Vehicle Journal | Q2 |
