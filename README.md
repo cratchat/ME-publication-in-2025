@@ -34,7 +34,7 @@ Author	Title	Journal	Ranking
 | NNW | GNSS-RTK-Based Navigation for Micro Electric Vehicles | Machines | Q1 |
 | SPT | Glycerolysis of Palm Oil for Monoglyceride Production | ACS Sustainable Chemistry and Engineering | T1 |
 | NNW | Teleoperated Driving and Autonomous Driving Integration | Automation | Q2 |
-| RCR | Industry 5.0: Collaborative Welding Robotics | IEEE Access | T1 |
+| RCR | Advancing Industry 5.0: Collaborative Welding Robotics With Precision, Safety, and Flexibility | IEEE Access | T1 |
 | GPN | Body-Powered Underactuated Prosthetic Finger | Robotics | T1 |
 | GPN | Mathematical Modeling of ICE and EV Stability | JRAME | Q4 |
 | TJW | Development of Plucked Piezoelectric Energy Harvesting from Human’s Upper Limb Motion | IEEE Access | T1 |
