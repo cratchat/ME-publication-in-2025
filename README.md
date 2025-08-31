@@ -37,3 +37,9 @@ Author	Title	Journal	Ranking
 | RCR | Industry 5.0: Collaborative Welding Robotics | IEEE Access | T1 |
 | GPN | Body-Powered Underactuated Prosthetic Finger | Robotics | T1 |
 | GPN | Mathematical Modeling of ICE and EV Stability | JRAME | Q4 |
+| TJW | Development of Plucked Piezoelectric Energy Harvesting from Human’s Upper Limb Motion | IEEE Access | T1 |
+| RCR | Digital Twin-Enabled Extrusion Control for High-Fidelity Printing of Polymers | Polymers | Q1|
+| RCR | Flexibly actuated pneumatic extrusion with in-situ monitoring for direct ink writing of heterogeneous and pressure-vulnerable | Scientific Reports | T1 |
+| TPP | Inclination and inter-row spacing optimization for 12MW floating photovoltaic system with shading loss and financial analysis | Results in Engineering | Q1 |
+| GPN | Development, validation, and application of a dual-color fluorescent assay for high-throughput screening of anti-chikungunya drugs | Scientific Reports | T1 |
+| J | Mechanicam Impedance Tunnel of Affordable Desktop Robotic Arm for Uppper Extremity Rehabilitation | Systems Science and Control Engineering | Q1 |
