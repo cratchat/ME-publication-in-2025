@@ -45,3 +45,5 @@ Author	Title	Journal	Ranking
 | J | Mechanicam Impedance Tunnel of Affordable Desktop Robotic Arm for Uppper Extremity Rehabilitation | Systems Science and Control Engineering | Q1 |
 | GPN | AI-Powered Telepresence Laboratory: Generative AI Co-Pilot for Automated Experiment Guidance and Instruction | International Journal of Engineering Education | Q3 |
 | NNW | Evaluating Visual eHMI Formats for Pedestrian Crossing Confirmation in Electric Autonomous Vehicles: A Comprehension-Time Study with Simulation and Preliminary Field Validation | World Electric Vehicle Journal | Q2 |
+| GPN | Comprehensive Framework for Tuberculosis Detection Using Deep Learning and Image Processing in Whole-Slide Images | IEEE Access | T1 |
+| GPN | Immersive Learning Environment Platform: ChulaVerse’s 3D Interactive University | Engineering Journal | Q2 |
