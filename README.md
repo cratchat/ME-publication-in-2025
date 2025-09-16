@@ -5,7 +5,7 @@ This repository contains a curated list of peer-reviewed journal publications ac
 Each entry in the dataset is labeled by the main author, the publication title, the journal name, and its ranking (Q1–Q4, T1) to reflect its impact.
 
 🔍 Highlights
-✅ 33 peer-reviewed publications
+✅ 34 peer-reviewed publications
 
 🧠 Fields: Materials Science, Mechanical Engineering, Biomedical Applications, Robotics, Environmental Sustainability, and Artificial Intelligence
 
@@ -48,3 +48,4 @@ Author	Title	Journal	Ranking
 | GPN | Comprehensive Framework for Tuberculosis Detection Using Deep Learning and Image Processing in Whole-Slide Images | IEEE Access | T1 |
 | GPN | Immersive Learning Environment Platform: ChulaVerse’s 3D Interactive University | Engineering Journal | Q2 |
 | WSN | Impact of surfactants and co-surfactants on bismuth vanadate: ultrasensitive facile determination of perilous nitrobenzene in water and fish samples | Journal of Molecular Liquids | T1 |
+| GPN | Simulation-Guided Aerodynamic Design and Scaled Verification for High-Performance Sports Cars | Modelling | Q2 |
