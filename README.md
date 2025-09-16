@@ -28,7 +28,7 @@ Author	Title	Journal	Ranking
 | SSL | Managing occupancy density and ventilation using infection risk models | Building and Environment | T1 |
 | PSG | Large deflection measurement via monocular deflectometer | Measurement Science and Technology | Q1 |
 | RCR | Acoustic-Based CNC Machine Monitoring | Machines | Q1 |
-| NVS | Germanium-Based Near-Field Thermophotovoltaic Converter Enhancement | Engineering Journal | Q2 |
+| NVS | Performance Improvement for Germanium-Based Near-Field Thermophotovoltaic Converter | Engineering Journal | Q2 |
 | APP | Shear and Extensional Stresses on Cells in Spiral Microchannels | ACS Biomaterials Science and Engineering | Q1 |
 | CVS | Meniscus Tear Refixation Restores Tibiofemoral Pressure | Knee Surgery, Sports Traumatology, Arthroscopy | T1 |
 | NNW | GNSS-RTK-Based Navigation for Micro Electric Vehicles | Machines | Q1 |
