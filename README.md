@@ -49,3 +49,4 @@ Author	Title	Journal	Ranking
 | GPN | Immersive Learning Environment Platform: ChulaVerse’s 3D Interactive University | Engineering Journal | Q2 |
 | WSN | Impact of surfactants and co-surfactants on bismuth vanadate: ultrasensitive facile determination of perilous nitrobenzene in water and fish samples | Journal of Molecular Liquids | T1 |
 | GPN | Simulation-Guided Aerodynamic Design and Scaled Verification for High-Performance Sports Cars | Modelling | Q2 |
+| WSN | Copper tungstate nanoparticles for the selective electrochemical detection of organophosphate pesticides | Environmental Science: Nano | Q1 |
