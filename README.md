@@ -5,7 +5,7 @@ This repository contains a curated list of peer-reviewed journal publications ac
 Each entry in the dataset is labeled by the main author, the publication title, the journal name, and its ranking (Q1–Q4, T1) to reflect its impact.
 
 🔍 Highlights
-✅ 35 peer-reviewed publications
+✅ 36 peer-reviewed publications
 
 🧠 Fields: Materials Science, Mechanical Engineering, Biomedical Applications, Robotics, Environmental Sustainability, and Artificial Intelligence
 
@@ -50,3 +50,4 @@ Author	Title	Journal	Ranking
 | WSN | Impact of surfactants and co-surfactants on bismuth vanadate: ultrasensitive facile determination of perilous nitrobenzene in water and fish samples | Journal of Molecular Liquids | T1 |
 | GPN | Simulation-Guided Aerodynamic Design and Scaled Verification for High-Performance Sports Cars | Modelling | Q2 |
 | WSN | Copper tungstate nanoparticles for the selective electrochemical detection of organophosphate pesticides | Environmental Science: Nano | Q1 |
+| GPN | Laser based machine vision and volume segmentation algorithm for equal weight portioning of poultry and fish | PeerJ Computer Science | Q1 |
