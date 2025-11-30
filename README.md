@@ -51,3 +51,5 @@ Author	Title	Journal	Ranking
 | GPN | Simulation-Guided Aerodynamic Design and Scaled Verification for High-Performance Sports Cars | Modelling | Q2 |
 | WSN | Copper tungstate nanoparticles for the selective electrochemical detection of organophosphate pesticides | Environmental Science: Nano | Q1 |
 | GPN | Laser based machine vision and volume segmentation algorithm for equal weight portioning of poultry and fish | PeerJ Computer Science | Q1 |
+| CVS | Development of prosthetic foot with an adjustable rollover shape for low-activity amputees (K-level 1–2) | Journal of Mechanical Engineering Science | Q2 |
+| ROY | Modeling of Soot Emission in Turbulent Diffusion Flames Impinging on a Cold Surface | Combustion Science and Technology | Q2 |
