@@ -5,7 +5,7 @@ This repository contains a curated list of peer-reviewed journal publications ac
 Each entry in the dataset is labeled by the main author, the publication title, the journal name, and its ranking (Q1–Q4, T1) to reflect its impact.
 
 🔍 Highlights
-✅ 38 peer-reviewed publications
+✅ 39 peer-reviewed publications
 
 🧠 Fields: Materials Science, Mechanical Engineering, Biomedical Applications, Robotics, Environmental Sustainability, and Artificial Intelligence
 
@@ -53,3 +53,4 @@ Author	Title	Journal	Ranking
 | GPN | Laser based machine vision and volume segmentation algorithm for equal weight portioning of poultry and fish | PeerJ Computer Science | Q1 |
 | CVS | Development of prosthetic foot with an adjustable rollover shape for low-activity amputees (K-level 1–2) | Journal of Mechanical Engineering Science | Q2 |
 | ROY | Modeling of Soot Emission in Turbulent Diffusion Flames Impinging on a Cold Surface | Combustion Science and Technology | Q2 |
+| GPN | Autonomous augmented reality projection system for industrial weld seam inspection | International Journal of Advanced Technology and Engineering Exploration | Q3 |
