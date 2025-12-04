@@ -5,7 +5,7 @@ This repository contains a curated list of peer-reviewed journal publications ac
 Each entry in the dataset is labeled by the main author, the publication title, the journal name, and its ranking (Q1–Q4, T1) to reflect its impact.
 
 🔍 Highlights
-✅ 39 peer-reviewed publications
+✅ 42 peer-reviewed publications
 
 🧠 Fields: Materials Science, Mechanical Engineering, Biomedical Applications, Robotics, Environmental Sustainability, and Artificial Intelligence
 
@@ -55,4 +55,7 @@ Author	Title	Journal	Ranking
 | ROY | Modeling of Soot Emission in Turbulent Diffusion Flames Impinging on a Cold Surface | Combustion Science and Technology | Q2 |
 | GPN | Autonomous augmented reality projection system for industrial weld seam inspection | International Journal of Advanced Technology and Engineering Exploration | Q3 |
 | SMR | Clinical strategy to enhance cyclic fatigue resistance of Ni-Ti rotary files using refrigerant spray | BMC Oral Health | X |
+| WSN | Exploring MXene-based nanomaterials for multifunctional photocatalysis: competitiveness, challenges, and future directions | Journal of Environmental Chemical Engineering | T1|
+| PTT | Design of a Hydraulic Prosthetic Knee with Control Moment for Adjustable Stance-Phase Knee Flexion | IEEE Transactions on Neural Systems and Rehabilitation Engineering | T1 |
+| SKM | Stochastic Creep Analysis of Hastelloy XR based on MPC-Omega Method and the Extended Kalman Filter | Engineering Journal | Q2 |
 
