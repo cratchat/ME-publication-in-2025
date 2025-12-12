@@ -42,7 +42,7 @@ Author	Title	Journal	Ranking
 | RCR | Flexibly actuated pneumatic extrusion with in-situ monitoring for direct ink writing of heterogeneous and pressure-vulnerable | Scientific Reports | T1 |
 | TPP | Inclination and inter-row spacing optimization for 12MW floating photovoltaic system with shading loss and financial analysis | Results in Engineering | Q1 |
 | GPN | Development, validation, and application of a dual-color fluorescent assay for high-throughput screening of anti-chikungunya drugs | Scientific Reports | T1 |
-| J | Mechanicam Impedance Tunnel of Affordable Desktop Robotic Arm for Uppper Extremity Rehabilitation | Systems Science and Control Engineering | Q1 |
+| J | Mechanical Impedance Tunnel of Affordable Desktop Robotic Arm for Uppper Extremity Rehabilitation | Systems Science and Control Engineering | Q1 |
 | GPN | AI-Powered Telepresence Laboratory: Generative AI Co-Pilot for Automated Experiment Guidance and Instruction | International Journal of Engineering Education | Q3 |
 | NNW | Evaluating Visual eHMI Formats for Pedestrian Crossing Confirmation in Electric Autonomous Vehicles: A Comprehension-Time Study with Simulation and Preliminary Field Validation | World Electric Vehicle Journal | Q2 |
 | GPN | Comprehensive Framework for Tuberculosis Detection Using Deep Learning and Image Processing in Whole-Slide Images | IEEE Access | T1 |
