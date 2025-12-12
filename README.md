@@ -58,4 +58,6 @@ Author	Title	Journal	Ranking
 | WSN | Exploring MXene-based nanomaterials for multifunctional photocatalysis: competitiveness, challenges, and future directions | Journal of Environmental Chemical Engineering | T1|
 | PTT | Design of a Hydraulic Prosthetic Knee with Control Moment for Adjustable Stance-Phase Knee Flexion | IEEE Transactions on Neural Systems and Rehabilitation Engineering | T1 |
 | SKM | Stochastic Creep Analysis of Hastelloy XR based on MPC-Omega Method and the Extended Kalman Filter | Engineering Journal | Q2 |
+| GPN | Observer-Based Volumetric Flow Control in Nonlinear Electro-Pneumatic Extrusion Actuator with Rheological Dynamics | Actuators | Q1 |
+| CRW | Implementation of Compressed Sensing Technique for Vibration Measurement with a MEMS Accelerometer | Engineering Journal | Q2 |
 
