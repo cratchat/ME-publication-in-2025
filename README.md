@@ -24,7 +24,6 @@ Author	Title	Journal	Ranking
 | PSG | Thermodynamic Investigation of Glassy Polycarbonate Under Slow Torsion | Experimental Mechanics | Q2 |
 | GPN | Efficient Technique for Joint Parameter Estimation in Phased Array Radar | IEEE Access | T1 |
 | ROY | Upwind and Downwind Vortex Generator Effects in Solar-Air-Heater | Heat Transfer Engineering | Q2 |
-| GPN | Tuberculosis Detection Using Deep Learning and Whole-Slide Imaging | IEEE Access | T1 |
 | SSL | Managing occupancy density and ventilation using infection risk models | Building and Environment | T1 |
 | PSG | Large deflection measurement via monocular deflectometer | Measurement Science and Technology | Q1 |
 | RCR | Acoustic-Based CNC Machine Monitoring | Machines | Q1 |
