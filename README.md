@@ -53,7 +53,7 @@ Author	Title	Journal	Ranking
 | CVS | Development of prosthetic foot with an adjustable rollover shape for low-activity amputees (K-level 1–2) | Journal of Mechanical Engineering Science | Q2 |
 | ROY | Modeling of Soot Emission in Turbulent Diffusion Flames Impinging on a Cold Surface | Combustion Science and Technology | Q2 |
 | GPN | Autonomous augmented reality projection system for industrial weld seam inspection | International Journal of Advanced Technology and Engineering Exploration | Q3 |
-| SMR | Clinical strategy to enhance cyclic fatigue resistance of Ni-Ti rotary files using refrigerant spray | BMC Oral Health | X |
+| SMR | Clinical strategy to enhance cyclic fatigue resistance of Ni-Ti rotary files using refrigerant spray | BMC Oral Health | Q1 |
 | WSN | Exploring MXene-based nanomaterials for multifunctional photocatalysis: competitiveness, challenges, and future directions | Journal of Environmental Chemical Engineering | T1 |
 | PTT | Design of a Hydraulic Prosthetic Knee with Control Moment for Adjustable Stance-Phase Knee Flexion | IEEE Transactions on Neural Systems and Rehabilitation Engineering | T1 |
 | SKM | Stochastic Creep Analysis of Hastelloy XR based on MPC-Omega Method and the Extended Kalman Filter | Engineering Journal | Q2 |
