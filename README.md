@@ -31,7 +31,7 @@ Author	Title	Journal	Ranking
 | APP | Shear and Extensional Stresses on Cells in Spiral Microchannels | ACS Biomaterials Science and Engineering | Q1 |
 | CVS | Meniscus Tear Refixation Restores Tibiofemoral Pressure | Knee Surgery, Sports Traumatology, Arthroscopy | T1 |
 | NNW | GNSS-RTK-Based Navigation for Micro Electric Vehicles | Machines | Q1 |
-| SPT | Glycerolysis of Palm Oil for Monoglyceride Production | ACS Sustainable Chemistry and Engineering | T1 |
+| SPT | Intensified Glycerolysis of Palm Oil in a Spinning Disc Reactor for Continuous Monoglyceride Production | ACS Sustainable Chemistry and Engineering | T1 |
 | NNW | Teleoperated Driving and Autonomous Driving Integration | Automation | Q2 |
 | RCR | Advancing Industry 5.0: Collaborative Welding Robotics With Precision, Safety, and Flexibility | IEEE Access | T1 |
 | GPN | Body-Powered Underactuated Prosthetic Finger | Robotics | T1 |
