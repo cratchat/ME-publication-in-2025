@@ -5,7 +5,7 @@ This repository contains a curated list of peer-reviewed journal publications ac
 Each entry in the dataset is labeled by the main author, the publication title, the journal name, and its ranking (Q1–Q4, T1) to reflect its impact.
 
 🔍 Highlights
-✅ 43 peer-reviewed publications
+✅ 44 peer-reviewed publications
 
 🧠 Fields: Materials Science, Mechanical Engineering, Biomedical Applications, Robotics, Environmental Sustainability, and Artificial Intelligence
 
@@ -59,4 +59,5 @@ Author	Title	Journal	Ranking
 | SKM | Stochastic Creep Analysis of Hastelloy XR based on MPC-Omega Method and the Extended Kalman Filter | Engineering Journal | Q2 |
 | GPN | Observer-Based Volumetric Flow Control in Nonlinear Electro-Pneumatic Extrusion Actuator with Rheological Dynamics | Actuators | Q1 |
 | CRW | Implementation of Compressed Sensing Technique for Vibration Measurement with a MEMS Accelerometer | Engineering Journal | Q2 |
+| GPN | Automated Detection of HER2 Gene Copy Number in Breast Cancer Using Deep Learning Techniques | Intelligence-Based Medicine | Q2 |
 
