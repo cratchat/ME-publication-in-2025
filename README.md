@@ -5,7 +5,7 @@ This repository contains a curated list of peer-reviewed journal publications ac
 Each entry in the dataset is labeled by the main author, the publication title, the journal name, and its ranking (Q1–Q4, T1) to reflect its impact.
 
 🔍 Highlights
-✅ 44 peer-reviewed publications
+✅ 45 peer-reviewed publications
 
 🧠 Fields: Materials Science, Mechanical Engineering, Biomedical Applications, Robotics, Environmental Sustainability, and Artificial Intelligence
 
@@ -60,4 +60,4 @@ Author	Title	Journal	Ranking
 | GPN | Observer-Based Volumetric Flow Control in Nonlinear Electro-Pneumatic Extrusion Actuator with Rheological Dynamics | Actuators | Q1 |
 | CRW | Implementation of Compressed Sensing Technique for Vibration Measurement with a MEMS Accelerometer | Engineering Journal | Q2 |
 | GPN | Automated Detection of HER2 Gene Copy Number in Breast Cancer Using Deep Learning Techniques | Intelligence-Based Medicine | Q2 |
-
+| GPN | Virtual Reality Rehabilitation Platform for Mild Cognitive Impairment: A Metaverse Approach | Engineering Journal | Q2 |
