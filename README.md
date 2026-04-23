@@ -44,7 +44,7 @@ Author	Title	Journal	Ranking
 | GPN*, NAV, RCR | A body-powered underactuated prosthetic finger driven by MCP joint motion | Robotics | T1 |
 | GPN*, NNW, RCR | Laser-based machine vision and volume segmentation algorithm for equal-weight portioning | PeerJ Computer Science | Q1 |
 | JVS*, PTP | Design of a hydraulic prosthetic knee with control moment | IEEE Transactions on Neural Systems and Rehabilitation Engineering | T1 |
-| ROY¹, ROY* | Modeling of soot emission in turbulent diffusion flames impinging on a cold surface | Combustion Science and Technology | Q2 |
+| ROY¹* | Modeling of soot emission in turbulent diffusion flames impinging on a cold surface | Combustion Science and Technology | Q2 |
 | GPN | Development, validation, and application of a dual-color fluorescent assay | Scientific Reports | Q1 |
 | NVS*, ROY | Performance improvement for germanium-based near-field thermophotovoltaic converter | Engineering Journal | Q2 |
 | CRW* | Implementation of compressed sensing technique for vibration measurement | Engineering Journal | Q2 |
