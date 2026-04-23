@@ -13,51 +13,47 @@ Each entry in the dataset is labeled by the main author, the publication title, 
 
 📊 Publication Summary
 Author	Title	Journal	Ranking
-| Author | Title | Journal | Ranking |
-|--------|-------|---------|---------|
-| GPN | Development of Automated Image Processing for High-Throughput Screening of Potential Anti-Chikungunya Virus Compounds | Applied Sciences (Switzerland) | Q1 |
+| Authors | Title | Journal | Rank |
+|--------|------|--------|------|
+| SMK | Enhancement of polylactic acid (PLA) with hybrid biomass-derived rice husk and biocarbon fillers: a comprehensive experimental study | Discover Applied Sciences | Q1 |
+| WSN* | Utilizing luffa sponge-derived porous activated carbon as a sustainable environmental biomass for renewable energy storage applications | Biomass and Bioenergy | T1 |
+| PTP, JVS | Suture anchor and transtibial pullout refixation of posterior medial meniscus root tears restore tibiofemoral contact pressure and area to intact meniscus levels | Knee Surgery, Sports Traumatology, Arthroscopy | T1 |
 | WSN | Environmental waste-derived dual heteroatom-rich sustainable carbon as anodes for Li- and Na-ion batteries | Journal of Industrial and Engineering Chemistry | Q1 |
-| WSN | Utilizing luffa sponge-derived porous activated carbon as a sustainable environmental bio-mass for renewable energy storage applications | Biomass and Bioenergy | T1 |
-| PSG | Biomechanical Evaluation of Stress Distribution in a Natural Tooth Adjacent to a Dental Implant Using Finite Element Modeling | European Journal of General Dentistry | Q1 |
-| SMR | Enhancement of polylactic acid (PLA) with hybrid biomass-derived rice husk and biocarbon fillers: a comprehensive experimental study | Discover Applied Sciences | Q1 |
-| PSG | Fracture resistance, 3D FEA, and safety of post-and-core restorations | Journal of Prosthetic Dentistry | Q1 |
-| PSG | Thermodynamic Investigation of Glassy Polycarbonate Under Slow Torsion | Experimental Mechanics | Q2 |
-| GPN | Efficient Technique for Joint Parameter Estimation in Phased Array Radar | IEEE Access | T1 |
-| ROY | Upwind and Downwind Vortex Generator Effects in Solar-Air-Heater | Heat Transfer Engineering | Q2 |
-| SSL | Managing occupancy density and ventilation using infection risk models | Building and Environment | T1 |
-| PSG | Large deflection measurement via monocular deflectometer | Measurement Science and Technology | Q1 |
-| RCR | Acoustic-Based CNC Machine Monitoring | Machines | Q1 |
-| NVS | Performance Improvement for Germanium-Based Near-Field Thermophotovoltaic Converter | Engineering Journal | Q2 |
-| APP | Shear and Extensional Stresses on Cells in Spiral Microchannels | ACS Biomaterials Science and Engineering | Q1 |
-| CVS | Meniscus Tear Refixation Restores Tibiofemoral Pressure | Knee Surgery, Sports Traumatology, Arthroscopy | T1 |
-| NNW | GNSS-RTK-Based Navigation for Micro Electric Vehicles | Machines | Q1 |
-| SPT | Intensified Glycerolysis of Palm Oil in a Spinning Disc Reactor for Continuous Monoglyceride Production | ACS Sustainable Chemistry and Engineering | T1 |
-| NNW | Teleoperated Driving and Autonomous Driving Integration | Automation | Q2 |
-| RCR | Advancing Industry 5.0: Collaborative Welding Robotics With Precision, Safety, and Flexibility | IEEE Access | T1 |
-| GPN | Body-Powered Underactuated Prosthetic Finger | Robotics | T1 |
-| GPN | Mathematical Modeling of ICE and EV Stability | JRAME | Q4 |
-| TJW | Development of Plucked Piezoelectric Energy Harvesting from Human’s Upper Limb Motion | IEEE Access | T1 |
-| RCR | Digital Twin-Enabled Extrusion Control for High-Fidelity Printing of Polymers | Polymers | Q1|
-| RCR | Flexibly actuated pneumatic extrusion with in-situ monitoring for direct ink writing of heterogeneous and pressure-vulnerable | Scientific Reports | T1 |
-| TPP | Inclination and inter-row spacing optimization for 12MW floating photovoltaic system with shading loss and financial analysis | Results in Engineering | Q1 |
-| GPN | Development, validation, and application of a dual-color fluorescent assay for high-throughput screening of anti-chikungunya drugs | Scientific Reports | T1 |
-| J | Mechanical Impedance Tunnel of Affordable Desktop Robotic Arm for Uppper Extremity Rehabilitation | Systems Science and Control Engineering | Q1 |
-| GPN | AI-Powered Telepresence Laboratory: Generative AI Co-Pilot for Automated Experiment Guidance and Instruction | International Journal of Engineering Education | Q3 |
-| NNW | Evaluating Visual eHMI Formats for Pedestrian Crossing Confirmation in Electric Autonomous Vehicles: A Comprehension-Time Study with Simulation and Preliminary Field Validation | World Electric Vehicle Journal | Q2 |
-| GPN | Comprehensive Framework for Tuberculosis Detection Using Deep Learning and Image Processing in Whole-Slide Images | IEEE Access | T1 |
-| GPN | Immersive Learning Environment Platform: ChulaVerse’s 3D Interactive University | Engineering Journal | Q2 |
-| WSN | Impact of surfactants and co-surfactants on bismuth vanadate: ultrasensitive facile determination of perilous nitrobenzene in water and fish samples | Journal of Molecular Liquids | T1 |
-| GPN | Simulation-Guided Aerodynamic Design and Scaled Verification for High-Performance Sports Cars | Modelling | Q2 |
-| WSN | Copper tungstate nanoparticles for the selective electrochemical detection of organophosphate pesticides | Environmental Science: Nano | Q1 |
-| GPN | Laser based machine vision and volume segmentation algorithm for equal weight portioning of poultry and fish | PeerJ Computer Science | Q1 |
-| CVS | Development of prosthetic foot with an adjustable rollover shape for low-activity amputees (K-level 1–2) | Journal of Mechanical Engineering Science | Q2 |
-| ROY | Modeling of Soot Emission in Turbulent Diffusion Flames Impinging on a Cold Surface | Combustion Science and Technology | Q2 |
-| GPN | Autonomous augmented reality projection system for industrial weld seam inspection | International Journal of Advanced Technology and Engineering Exploration | Q3 |
-| SMR | Clinical strategy to enhance cyclic fatigue resistance of Ni-Ti rotary files using refrigerant spray | BMC Oral Health | Q1 |
-| WSN | Exploring MXene-based nanomaterials for multifunctional photocatalysis: competitiveness, challenges, and future directions | Journal of Environmental Chemical Engineering | T1 |
-| PTT | Design of a Hydraulic Prosthetic Knee with Control Moment for Adjustable Stance-Phase Knee Flexion | IEEE Transactions on Neural Systems and Rehabilitation Engineering | T1 |
-| SKM | Stochastic Creep Analysis of Hastelloy XR based on MPC-Omega Method and the Extended Kalman Filter | Engineering Journal | Q2 |
-| GPN | Observer-Based Volumetric Flow Control in Nonlinear Electro-Pneumatic Extrusion Actuator with Rheological Dynamics | Actuators | Q1 |
-| CRW | Implementation of Compressed Sensing Technique for Vibration Measurement with a MEMS Accelerometer | Engineering Journal | Q2 |
-| GPN | Automated Detection of HER2 Gene Copy Number in Breast Cancer Using Deep Learning Techniques | Intelligence-Based Medicine | Q2 |
-| GPN | Virtual Reality Rehabilitation Platform for Mild Cognitive Impairment: A Metaverse Approach | Engineering Journal | Q2 |
+| GPN* | Development of automated image processing for high-throughput screening of potential anti-chikungunya virus compounds | Applied Sciences (Switzerland) | Q1 |
+| ROY¹, BLN* | Effect of upwind and downwind directions of right-trapezoidal winglet vortex generators in a solar air heater | Heat Transfer Engineering | Q2 |
+| NNW¹, GPN*, SCW* | Development of teleoperated driving to cooperate with the autonomous driving experience | Automation | Q2 |
+| PSG*, SMK | Effect of cross-sectional designs on torsional resistance of endodontic nickel–titanium files: a finite element study | European Journal of Dentistry | Q1 |
+| PSG* | Biomechanical evaluation of stress distribution in a natural tooth adjacent to a dental implant using finite element modeling | European Journal of General Dentistry | Q1 |
+| TPP¹ | Inclination and inter-row spacing optimization for 12 MW floating photovoltaic system with shading loss and financial analysis | Results in Engineering | Q1 |
+| RCR*, CRW | Acoustic-based machine main state monitoring for high-speed CNC drilling | Machines | Q1 |
+| GPN* | Comprehensive framework for tuberculosis detection using deep learning and image processing in whole-slide images | IEEE Access | T1 |
+| WSN*, APP, NDR | Copper tungstate nanoparticles for selective electrochemical detection of organophosphate pesticides | Environmental Science: Nano | Q1 |
+| PSG | Fracture resistance, 3-dimensional finite element analysis, and safety factors for post-and-core restorations | Journal of Prosthetic Dentistry | Q1 |
+| RCR*, GPN | Digital twin-enabled extrusion control for high-fidelity printing of polymers | Polymers | Q1 |
+| NNW¹, GPN*, SCW* | GNSS-RTK-based navigation with real-time obstacle avoidance for low-speed micro electric vehicles | Machines | Q1 |
+| NAV*, GPN | Simulation-guided aerodynamic design and scaled verification for high-performance sports cars | Modelling | Q2 |
+| WSN | Exploring MXene-based nanomaterials for multifunctional photocatalysis | Journal of Environmental Chemical Engineering | T1 |
+| SSL* | Managing occupancy density and ventilation strategies using infection risk model | Building and Environment | T1 |
+| GPN*, PRR*, TJW* | Development of plucked piezoelectric energy harvesting from human upper limb motion | IEEE Access | T1 |
+| PSG | Thermodynamic investigation of glassy polycarbonate under slow torsion | Experimental Mechanics | Q2 |
+| RCR*, GPN | Advancing Industry 5.0: collaborative welding robotics with precision, safety, and flexibility | IEEE Access | T1 |
+| GPN* | Efficient technique for joint parameter estimation in phased array radar | IEEE Access | T1 |
+| GPN* | Immersive learning environment platform: ChulaVerse’s 3D interactive university | Engineering Journal | Q2 |
+| SMK | Clinical strategy to enhance cyclic fatigue resistance of nickel–titanium rotary files | BMC Oral Health | Q1 |
+| PSG | Characterization of large deflection using a monocular deflectometer | Measurement Science and Technology | Q1 |
+| GPN*, NAV, RCR | A body-powered underactuated prosthetic finger driven by MCP joint motion | Robotics | T1 |
+| GPN*, NNW, RCR | Laser-based machine vision and volume segmentation algorithm for equal-weight portioning | PeerJ Computer Science | Q1 |
+| JVS*, PTP | Design of a hydraulic prosthetic knee with control moment | IEEE Transactions on Neural Systems and Rehabilitation Engineering | T1 |
+| ROY¹, ROY* | Modeling of soot emission in turbulent diffusion flames impinging on a cold surface | Combustion Science and Technology | Q2 |
+| GPN | Development, validation, and application of a dual-color fluorescent assay | Scientific Reports | Q1 |
+| NVS*, ROY | Performance improvement for germanium-based near-field thermophotovoltaic converter | Engineering Journal | Q2 |
+| CRW* | Implementation of compressed sensing technique for vibration measurement | Engineering Journal | Q2 |
+| RCR¹, GPN* | Observer-based volumetric flow control in nonlinear electro-pneumatic extrusion actuator | Actuators | Q1 |
+| WSN*, APP, NDR | Impact of surfactants on bismuth vanadate for ultrasensitive detection of nitrobenzene | Journal of Molecular Liquids | T1 |
+| SPT | Intensified glycerolysis of palm oil in a spinning disc reactor | ACS Sustainable Chemistry and Engineering | T1 |
+| GPN*, RCR | Autonomous augmented reality projection system for industrial weld seam inspection | International Journal of Advanced Technology and Engineering Exploration | Q3 |
+| GPN*, RCR | AI-powered telepresence laboratory: generative AI co-pilot | International Journal of Engineering Education | Q3 |
+| RCR* | Flexibly actuated pneumatic extrusion with in-situ monitoring | Scientific Reports | Q1 |
+| NNW¹, GPN*, SCW* | Evaluating visual eHMI formats for pedestrian crossing confirmation | World Electric Vehicle Journal | Q2 |
+| SKM¹, SKM* | Stochastic creep analysis of Hastelloy XR using MPC-Omega method | Engineering Journal | Q2 |
+| — | Mechanical impedance tunnel of affordable desktop robotic arm for upper extremity rehabilitation | Systems Science and Control Engineering | Q1 |
