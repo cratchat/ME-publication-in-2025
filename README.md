@@ -7,9 +7,9 @@ Each entry in the dataset is labeled by the main author, the publication title, 
 🔍 Highlights
 ✅ 42 peer-reviewed publications
 
-🧠 Fields: Materials Science, Mechanical Engineering, Biomedical Applications, Robotics, Environmental Sustainability, and Artificial Intelligence
+🧠 Research Fields: Materials Science, Mechanical Engineering, Biomedical Engineering, Robotics, Environmental Sustainability, and Artificial Intelligence
 
-🏆 Published in Q1, T1, and top-tier journals such as IEEE Access, ACS Biomaterials, Robotics, and Experimental Mechanics
+🏆 Publication Quality: Papers published in Q1 and T1 journals, including leading venues such as IEEE Access, ACS Sustainable Chemistry & Engineering, Robotics, Environmental Science: Nano, and Experimental Mechanics
 
 📊 Publication Summary
 Author	Title	Journal	Ranking
