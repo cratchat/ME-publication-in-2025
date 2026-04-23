@@ -5,7 +5,7 @@ This repository contains a curated list of peer-reviewed journal publications ac
 Each entry in the dataset is labeled by the main author, the publication title, the journal name, and its ranking (Q1–Q4, T1) to reflect its impact.
 
 🔍 Highlights
-✅ 45 peer-reviewed publications
+✅ 42 peer-reviewed publications
 
 🧠 Fields: Materials Science, Mechanical Engineering, Biomedical Applications, Robotics, Environmental Sustainability, and Artificial Intelligence
 
