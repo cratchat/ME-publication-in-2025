@@ -56,4 +56,4 @@ Author	Title	Journal	Ranking
 | RCR* | Flexibly actuated pneumatic extrusion with in-situ monitoring | Scientific Reports | Q1 |
 | NNW¹, GPN*, SCW* | Evaluating visual eHMI formats for pedestrian crossing confirmation | World Electric Vehicle Journal | Q2 |
 | SKM¹, SKM* | Stochastic creep analysis of Hastelloy XR using MPC-Omega method | Engineering Journal | Q2 |
-| — | Mechanical impedance tunnel of affordable desktop robotic arm for upper extremity rehabilitation | Systems Science and Control Engineering | Q1 |
+| Joey | Mechanical impedance tunnel of affordable desktop robotic arm for upper extremity rehabilitation | Systems Science and Control Engineering | Q1 |
